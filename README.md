@@ -254,6 +254,13 @@ data-analytics
 ```
 
 ---
+## 📊 Admin Analytics Dashboard
+
+### Sales by Category
+![Sales Chart](screenshots/sales_by_category.png)
+
+### Order Status Overview
+![Order Status](screenshots/order_status.png)
 
 ## 👨‍💻 Author
 
