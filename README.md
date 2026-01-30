@@ -99,6 +99,7 @@ screenshots/
 ![Admin Dashboard](https://github.com/your-username/SassyCart/assets/your-image-id)
 
 
+
 ---
 
 ## 📂 Project Folder Structure
