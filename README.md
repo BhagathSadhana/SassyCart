@@ -65,19 +65,6 @@ The goal of SassyCart is to simulate a **real-world e-commerce system** with bot
 
 ---
 
-## 📸 Screenshots
-
-> Screenshots are stored inside the `/screenshots` folder.
-
-```
-screenshots/
-├── products.png
-├── login.png
-├── register.png
-├── admin-add-product.png
-└── dashboard.png
-```
-
 ### Product Listing
 
 ![Sales Chart – SassyCart](https://copilot.microsoft.com/th/id/BCO.5738af07-43e2-49d4-aa83-c6a6e6065f4b.png)
@@ -230,22 +217,6 @@ http://localhost:5000
 * Advanced filtering & sorting
 * CSV export for sales data
 * Deployment on cloud (Render / Vercel)
-
----
-
-## 🏷️ GitHub Topics
-
-```
-react
-nodejs
-express
-mongodb
-jwt-authentication
-ecommerce
-fullstack
-web-development
-data-analytics
-```
 
 ---
 ### 📊  Admin Analytics Dashboard
