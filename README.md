@@ -9,6 +9,9 @@ This project demonstrates **end-to-end web development**, secure authentication,
 
 The goal of SassyCart is to simulate a **real-world e-commerce system** with both **user-facing features** and **admin controls**, while maintaining clean architecture and scalable design.
 
+![SassyCart Project Overview](https://copilot.microsoft.com/th/id/BCO.7f1cc0f9-ec7f-4532-a8f7-2a0cbb4140da.png)
+
+
 ---
 
 ## 🧰 Tech Stack
@@ -77,23 +80,24 @@ screenshots/
 
 ### Product Listing
 
-![Products](screenshots/products.png)
+![Sales Chart – SassyCart](https://copilot.microsoft.com/th/id/BCO.5738af07-43e2-49d4-aa83-c6a6e6065f4b.png)
 
 ### User Login
 
-![Login](screenshots/login.png)
+![User Login – SassyCart](https://copilot.microsoft.com/th/id/BCO.3e10f4f4-3238-455f-a04b-d401f694bb7a.png)
 
 ### User Registration
 
-![Register](screenshots/register.png)
+![User Registration – SassyCart](https://copilot.microsoft.com/th/id/BCO.3d7655c0-8d65-4103-8ea3-9fe288a8e6c9.png)
 
 ### Admin – Add Product
 
-![Admin Add Product](screenshots/admin-add-product.png)
+![Admin Add Products – SassyCart](https://copilot.microsoft.com/th/id/BCO.e828235a-d53e-4c7c-a561-58e41d8a35ba.png)
 
 ### Admin Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](https://github.com/your-username/SassyCart/assets/your-image-id)
+
 
 ---
 
@@ -200,8 +204,6 @@ http://localhost:5000
 }
 ```
 
----
-
 ## 📊 Analytics Dashboard (Bonus Feature)
 
 * Monthly sales performance
@@ -232,13 +234,6 @@ http://localhost:5000
 
 ---
 
-## 💼 Resume-Ready Project Description
-
-**SassyCart – Beauty & Skincare E-Commerce Platform**
-Designed and developed a full-stack e-commerce application using React, Node.js, Express, and MongoDB. Implemented JWT-based authentication, RESTful APIs, product and order management, admin inventory controls, and sales analytics dashboards to enable data-driven decision-making.
-
----
-
 ## 🏷️ GitHub Topics
 
 ```
@@ -257,14 +252,16 @@ data-analytics
 ## 📊 Admin Analytics Dashboard
 
 ### Sales by Category
-![Sales Chart](screenshots/sales_by_category.png)
+![Sales Chart – SassyCart](https://copilot.microsoft.com/th/id/BCO.5738af07-43e2-49d4-aa83-c6a6e6065f4b.png)
 
-### Order Status Overview
-![Order Status](screenshots/order_status.png)
+### 📦 Order Status Overview
+
+![Order Status Overview](https://github.com/your-username/SassyCart/assets/your-image-id)
+
 
 ## 👨‍💻 Author
 
-**Sassy**
+**Bhagath Sadhana**
 
 ---
 
