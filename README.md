@@ -96,9 +96,7 @@ screenshots/
 
 ### Admin Dashboard
 
-![Admin Dashboard](https://github.com/your-username/SassyCart/assets/your-image-id)
-
-
+![SassyCart Admin Dashboard](https://copilot.microsoft.com/th/id/BCO.a8f0efde-cb24-4715-b83e-73bb4dbee6e3.png)
 
 ---
 
@@ -250,17 +248,19 @@ data-analytics
 ```
 
 ---
-## 📊 Admin Analytics Dashboard
+### 📊  Admin Analytics Dashboard
+
+![SassyCart Admin Analytics Dashboard](https://copilot.microsoft.com/th/id/BCO.7c296625-251b-4824-b0d2-c02f86b0f161.png)
 
 ### Sales by Category
+
 ![Sales Chart – SassyCart](https://copilot.microsoft.com/th/id/BCO.5738af07-43e2-49d4-aa83-c6a6e6065f4b.png)
 
 ### 📦 Order Status Overview
 
-![Order Status Overview](https://github.com/your-username/SassyCart/assets/your-image-id)
+![SassyCart Order Status Overview](https://copilot.microsoft.com/th/id/BCO.0a4a7f53-0738-4e08-9b65-6fce66355cf3.png)
 
-
-## 👨‍💻 Author
+### 👨‍💻 Author
 
 **Bhagath Sadhana**
 
